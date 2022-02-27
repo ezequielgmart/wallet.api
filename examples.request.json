@@ -1,0 +1,38 @@
+{
+    "income":{
+
+    "account_id":1,
+    "date":"2022-02-20",
+    "type":"income",
+    "income":5264.65,
+    "outcome":0,
+    "description":"First salary",
+    "beneficiarie":"Teleperformance",
+    "category":"Salary"
+
+    },
+
+    "outcome":{
+    "account_id":1,
+    "date":"2022-03-31",
+    "type":"outcome",
+    "income":0,
+    "outcome":318.50,
+    "description":"Uber trip",
+    "beneficiarie":"Uber",
+    "category":"Transportation"
+    },
+    "Add Account":{
+        "name":"My wallet",
+        "type":"Cash",
+        "category":"Assets"
+        },
+
+    "Transfer":{
+        "account_in":12,
+        "account_out":13,
+        "date":"2022-02-20",
+        "value":5000
+    }    
+
+}

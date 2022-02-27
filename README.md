@@ -1,1 +1,1 @@
-# wallet.api
+npm un mysql && npm i mysql2
